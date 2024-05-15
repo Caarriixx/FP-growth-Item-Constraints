@@ -17,7 +17,6 @@ The following publicly available datasets are used:
 
 - `datasets/`: Contains the datasets used for the experiments.
 - `src/`: Source code for the FP-growth implementation.
-- `presentation/`: Contains the preliminary design presentation.
 
 ## Usage
 
